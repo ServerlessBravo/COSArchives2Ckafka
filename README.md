@@ -1,7 +1,7 @@
 ### Forward logs on COS to CKafka
 
 
-A application for unzipping `.tar.gz` files from `COS` and forwarding the messages to Ckafka, then `Clickhouse` can create the table fwith Kafka connection
+A application for unzipping `.tar.gz` files from `COS` and forwarding the messages to Ckafka, then `Clickhouse` can create the table with Kafka connection
 
 ### Change Configuration
 
